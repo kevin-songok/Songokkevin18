@@ -15,6 +15,6 @@ I actively contribute to AI data preparation, reinforcement learning (RLHF), and
 *   **Turing AI** – Structured Annotation & Inter-Annotator Agreement Optimization
 
 ## 🎯 Connect with Me
-*   💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+*   💼 **LinkedIn:** https://www.linkedin.com/in/kevin-songok-6633023ab 
 *   📧 **Email:** songokkevin18@gmail.com
 
